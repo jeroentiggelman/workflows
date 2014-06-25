@@ -6,5 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Jeroen Tiggelman"
+  "author": "Jeroen Tiggelman",
+  "devDependencies": {
+    "gulp": "~3.8.2",
+    "gulp-util": "~2.2.17"
+  }
 }
